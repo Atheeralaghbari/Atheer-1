@@ -15,3 +15,5 @@
 7.Inu shiba
 
 8.Alaskan  Malamute
+
+9.Pugs
