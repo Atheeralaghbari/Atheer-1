@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # List of dogs:
+=======
+#  List of dogs:
+>>>>>>> new-dog
 
 1.Pitbull
 
@@ -15,3 +19,5 @@
 7.Inu shiba
 
 8.Alaskan  Malamute
+
+ 9.pugs
