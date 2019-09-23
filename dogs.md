@@ -1,4 +1,4 @@
-# List of dogs:
+#  List of dogs:
 
 1.Pitbull
 
@@ -16,4 +16,4 @@
 
 8.Alaskan  Malamute
 
-9.Pugs
+ 9.pugs
