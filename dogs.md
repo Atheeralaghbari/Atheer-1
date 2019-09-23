@@ -9,3 +9,9 @@
 4.Policy
 
 5.wolfie
+
+6.German shepherd
+
+7.Inu shiba
+
+8.Alaskan  Malamute
